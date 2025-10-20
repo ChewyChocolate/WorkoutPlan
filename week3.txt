@@ -1,4 +1,4 @@
-*Week3:*
+Week3:
 Day 1:
 4
 Incline Bench Press
@@ -11,11 +11,11 @@ Day 2:
 Lying Bicep Curl
 Overhead Cable Triceps Extension (V-Bar)
 Decline Sit Ups
-Dragon Flag
+Calf Raises
 
 Day 3:
 4
-Hack Squat
+Squat
 Sideway Pec Deck 
 Seated Row
 Wrist Curl
@@ -33,4 +33,4 @@ Neutral Grip Pull Ups
 Lunges
 Overhead Cable Triceps Extension (Rope)
 Incline Curl
-Calf Raises
+Dragon Flag
