@@ -1,30 +1,30 @@
 Week1:
 Day 1:
 4
-Neutral Grip Pull Ups
+Wide Grip Row
 Squat
 Lu Raises
 Dragon Flag
 
 Day 2:
 4
-Incline Bench Press
+Low Incline Bench Press
 Incline Bicep Curl
-Calf Raises
 Sideway Pec Deck 
+Calf Raises
 
 Day 3:
 4
 Leg Extension
+Seated Row
 Reverse Curl
 RDL
-Shoulder Press
 
 Day 4:
 4
 Lateral Raises
-Wide Grip Row
-Overhead Cable Triceps Extension
+Shoulder Press
+Chest Flies
 Decline Sit Ups
 
 Day 5:
@@ -32,5 +32,5 @@ Day 5:
 Lunges
 Cross-Body Lat Pull Around
 Preacher Curl
-Chest Flies
-Calf Raises
+Overhead Cable Triceps Extension
+Wrist Curl
