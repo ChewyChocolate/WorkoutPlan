@@ -1,0 +1,36 @@
+week4:
+Day1:
+4
+High Incline Bench Press
+Neutral Grip Pull Ups
+Lunges
+Lying Bicep Curl
+
+Day2:
+4
+Leg Extension
+Sideway Pec Deck
+Dragon Flag
+RDL 
+
+Day3:
+4
+Flat Bench Press
+Seated Row
+Lateral Raises
+Hammer Curl
+
+Day4:
+4
+Overhead Cable Triceps Extension
+Lu Raises
+Wrist Curl
+Calf Raises
+
+Day5:
+5
+Squat
+Low to High Chest FLies
+Cross-Body Lat Pull Around
+Preacher Curl
+Shrugs

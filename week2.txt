@@ -1,7 +1,7 @@
 Week2:
 Day 1:
 4
-Incline Bench Press
+LowIncline Bench Press
 Wide Grip Row
 Lying Bicep Curl
 Incline DB Y Raise
@@ -23,13 +23,13 @@ Calf Raises
 Day 4:
 4
 Sideway Pec Deck
+Lunges
 Hip Adduction
 Lateral Raises
-Lunges
 
 Day 5:
 5
-Bench Press
+Flat Bench Press
 Seated Row
 Preacher Curl
 Leg Extension
