@@ -22,7 +22,7 @@ Hip Adduction
 
 Day 4:
 4
-LowIncline Bench Press
+Low Incline Bench Press
 Sideway Pec Deck
 Lateral Raises
 Leg Extension
@@ -34,3 +34,10 @@ Overhead Cable Triceps Extension
 Preacher Curl
 Lunges
 Calf Raises
+
+Optionals:
+Dead Hang
+Push Ups
+Wrist Curl
+Wrist Extension
+Plate Pinch

@@ -34,3 +34,11 @@ Cross-Body Lat Pull Around
 Incline Bicep Curl
 Overhead Cable Triceps Extension
 Decline Sit Ups
+
+Optionals:
+Shrugs
+Dead Hang
+Push Ups
+Hip Adduction
+Wrist Extension
+Plate Pinch
